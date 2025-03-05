@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekanandd1&label=Profile%20views&color=0e75b6&style=flat" alt="vivekanandd1" /> </p>
 
-- 🔭 I’m currently working on **Demo E-Commerce**
+- 🔭 I’m currently working on **E-Commerce Domain Automation**
 
 - 🌱 I’m currently learning **AWS**
 
